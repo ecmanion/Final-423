@@ -1,0 +1,24 @@
+
+.btn-success, .btn-danger{
+    margin-left: 3%
+}
+
+.complete{
+    width: 20%;
+}
+.incomplete{
+    text-decoration: line-through;
+    width: 20%;
+}
+
+.hide-button{
+    display: none;
+}
+.show-button{
+    margin-right: 5px;
+    border-radius: 10px;
+    background-color: #5cb85c;
+    border: none;
+    color: white;
+    padding: 7px;
+}
